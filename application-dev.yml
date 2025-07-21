@@ -1,0 +1,6 @@
+my:
+  message: Hello from GitHub! Aphi amanga ami lol!
+spring:
+  application:
+    name: my-config-cool-app
+
